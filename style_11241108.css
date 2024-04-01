@@ -1,0 +1,85 @@
+
+/*bar*/
+#bar .btn-outline-light{
+  color: #B7B7B7;
+}
+#bar .btn-outline-light:hover,
+.btn-outline-light.active:hover{
+  color: #000000;
+}
+#bar .btn-outline-light.active,
+.btn-outline-light.active.focus{
+  color: #000000;
+}
+#bar .btn-outline-light:active,
+.btn-outline-light.active{
+  color: #000000;
+}
+#bar .btn-outline-light1{
+	color: #000000;
+}
+
+
+/*css1*/
+#css1 p{
+	line-height:2;
+}
+#css1 h1{
+	color: #000000;
+	font-size: 28px;
+}
+#css1 h2{
+	color: #000000;
+	font-size: 40px;
+	font-weight:bold;
+}
+#css1 .img{
+  height: auto; 
+  width: auto\9;
+  width:100%;
+} 
+#css1 .btn-outline-light2{
+  color: #B7B7B7;
+}
+#css1 .btn-outline-light2:hover,
+.btn-outline-light.active:hover{
+  color: #000000;
+}
+#css1 .btn-outline-light2.active,
+.btn-outline-light.active.focus{
+  color: #000000;
+}
+#css1 .btn-outline-light2:active,
+.btn-outline-light.active{
+  color: #000000;
+}
+#css1 .btn-outline-light1{
+  color: #000000;
+}
+#css1 .btn-outline-light2.active:visited{
+  color: #000000;
+}
+
+
+/*family*/
+#family{
+  background-color: #FFFFFF;
+}
+#family .btn-outline-light2{
+  color: #B7B7B7;
+}
+#family .btn-outline-light2:hover,
+.btn-outline-light.active:hover{
+  color: #000000;
+}
+#family .btn-outline-light2.active,
+.btn-outline-light.active.focus{
+  color: #000000;
+}
+#family .btn-outline-light2:active,
+.btn-outline-light.active{
+  color: #000000;
+}
+#family .btn-outline-light1{
+  color: #000000;
+}
